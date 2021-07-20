@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<opml version="2.0">
+  <head>
+    <title>GNOME Podcasts Subscriptions</title>
+  </head>
+  <body>
+    <outline text="99% Invisible" title="99% Invisible" type="rss" xmlUrl="https://feeds.99percentinvisible.org/99percentinvisible" htmlUrl="https://99percentinvisible.org/" />
+    <outline text="Conan O’Brien Needs A Friend" title="Conan O’Brien Needs A Friend" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/0a686f81-0eeb-455b-98be-ab0d00055d5e/1fab2b0b-a7f0-4d71-bf6d-ab0d00055d6c/podcast.rss" htmlUrl="https://www.earwolf.com/show/conan-obrien/" />
+    <outline text="Dear Hank &amp; John" title="Dear Hank &amp; John" type="rss" xmlUrl="https://feeds.simplecast.com/9YNI3WaL" htmlUrl="https://www.wnycstudios.org/podcasts/dear-hank-john" />
+    <outline text="Podcasty Retro Nation" title="Podcasty Retro Nation" type="rss" xmlUrl="https://anchor.fm/s/e161314/podcast/rss" htmlUrl="https://www.retronation.cz/" />
+    <outline text="The Anthropocene Reviewed" title="The Anthropocene Reviewed" type="rss" xmlUrl="https://feeds.simplecast.com/p7S4nr_h" htmlUrl="https://www.wnycstudios.org/podcasts/anthropocene-reviewed" />
+    <outline text="Twenty Thousand Hertz" title="Twenty Thousand Hertz" type="rss" xmlUrl="http://feeds.megaphone.fm/20k" htmlUrl="http://www.20k.org/" />
+    <outline text="VISION Radio" title="VISION Radio" type="rss" xmlUrl="http://feeds.noisia.nl/NoisiaRadio" htmlUrl="https://www.noisia.nl/radio/" />
+  </body>
+</opml>
